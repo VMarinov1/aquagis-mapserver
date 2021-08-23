@@ -1,0 +1,2 @@
+# aquagis-mapserver
+AquaGIS MapServer
