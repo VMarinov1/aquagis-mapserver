@@ -1,0 +1,205 @@
+SYMBOLSET
+
+
+Symbol
+Name 'circle'
+Type ELLIPSE
+Filled TRUE
+Points
+1 1
+END
+END 
+
+
+
+
+
+
+# 1
+SYMBOL
+	NAME "water-pump"
+	TYPE svg
+	IMAGE "svg/water-pump.svg"
+END
+
+
+# 2 Точка на потребление с водомер
+SYMBOL
+	NAME "water-meter"
+	TYPE svg
+	IMAGE "svg/water-meter.svg"
+END
+
+
+# 3 точка на потребление без мерене
+SYMBOL
+	NAME "water-consumer"
+	TYPE svg
+	IMAGE "svg/water-consumer.svg"
+END
+
+
+# 4
+SYMBOL
+	NAME "valve"
+	TYPE svg
+	IMAGE "svg/valve.svg"
+END
+
+
+# 5
+SYMBOL
+	NAME "valve-small"
+	TYPE svg
+	IMAGE "svg/valve-small.svg"
+END
+
+
+# 6
+SYMBOL
+	NAME "fire-hydrant"
+	TYPE svg
+	IMAGE "svg/fire-hydrant.svg"
+END
+
+
+# 7
+SYMBOL
+	NAME "water-node"
+	TYPE svg
+	IMAGE "svg/water-node.svg"
+END
+
+
+# 8
+SYMBOL
+	NAME "water-source"
+	TYPE svg
+	IMAGE "svg/water-source.svg"
+END
+
+
+# 9 регулатор-на-налягане
+SYMBOL
+	NAME "pressure-regulator"
+	TYPE svg
+	IMAGE "svg/pressure-regulator.svg"
+END
+
+
+# 10
+SYMBOL
+	NAME "water-well"
+	TYPE svg
+	IMAGE "svg/water-well.svg"
+END
+
+
+# 11
+SYMBOL
+	NAME "sewer-ps"
+	TYPE svg
+	IMAGE "svg/sewer-ps.svg"
+END
+
+
+# 12
+SYMBOL
+	NAME "sewer-pump"
+	TYPE svg
+	IMAGE "svg/sewer-pump.svg"
+END
+
+
+# 13
+SYMBOL
+	NAME "reservoir"
+	TYPE svg
+	IMAGE "svg/reservoir.svg"
+END
+
+
+# 14
+SYMBOL
+	NAME "psov"
+	TYPE svg
+	IMAGE "svg/psov.svg"
+END
+
+
+# 15
+SYMBOL
+	NAME "pspv"
+	TYPE svg
+	IMAGE "svg/pspv.svg"
+END
+
+
+# 16
+SYMBOL
+	NAME "sewer-joint"
+	TYPE svg
+	IMAGE "svg/sewer-joint.svg"
+END
+
+
+# 17
+SYMBOL
+	NAME "distribution-manhole"
+	TYPE svg
+	IMAGE "svg/distribution-manhole.svg"
+END
+
+
+# 18
+SYMBOL
+	NAME "outfall"
+	TYPE svg
+	IMAGE "svg/outfall.svg"
+END
+
+
+
+
+# 19
+SYMBOL
+	NAME "sewer-overflow"
+	TYPE svg
+	IMAGE "svg/sewer-overflow.svg"
+END
+
+
+# 20
+SYMBOL
+	NAME "sewer-manhole"
+	TYPE svg
+	IMAGE "svg/sewer-manhole.svg"
+END
+
+
+# 21
+SYMBOL
+	NAME "air-point"
+	TYPE svg
+	IMAGE "svg/air-point.svg"
+END
+
+
+# 22
+SYMBOL
+	NAME "asset"
+	TYPE svg
+	IMAGE "svg/asset.svg"
+END
+
+
+# 23 водопроводна помпена станция
+SYMBOL
+	NAME "water-ps"
+	TYPE svg
+	IMAGE "svg/water-ps.svg"
+END
+
+
+
+END
